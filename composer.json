@@ -83,8 +83,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/marispro/laravel-support",
-            "reference": "56fd7db6791e2381753b1b484bcebe2c7a90c50c"
+            "url": "https://github.com/marispro/laravel-support"
         }
     ],
     "config": {
