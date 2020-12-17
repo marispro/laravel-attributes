@@ -80,12 +80,12 @@
     "scripts": {
         "test": "vendor/bin/phpunit"
     },
-    "repositories": {
+    "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/thomascombe/laravel-support"
         }
-    },
+    ],
     "config": {
         "sort-packages": true,
         "preferred-install": "dist",
