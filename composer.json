@@ -83,11 +83,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/thomascombe/laravel-support"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/marispro/uniquewith-validator"
+            "url": "https://github.com/marispro/laravel-support"
         }
     ],
     "config": {
